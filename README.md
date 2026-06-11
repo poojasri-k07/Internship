@@ -34,7 +34,7 @@ This repository contains the projects, assignments, documentation, and learning 
 
 ## Author
 
-Poojasri Kanagaraj
+Poojasri K
 
 ---
 
